@@ -34,7 +34,7 @@ A simple Python-based Restaurant Management System with a graphical user interfa
 4. Run the Python program.
 
 ## Output
-![Output](output.png)
+![Output](output.pg.png)
 ![Output 1](output1.png)
 ![Output 2](output2.png)
 
